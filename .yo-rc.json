@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "consumoGasolina",
+    "packageName": "io.miguelo.jhipster",
+    "packageFolder": "io/miguelo/jhipster",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "Zjk5OWU2YzAwNTU1OTQ2MWZhYzQyYzA0MDMzY2Q5Y2ZlZGJkOTM3ZmQxYjg3ZjMwNWVkOGE5Mjk2NjA1N2RiZTJlOGM4YjJiMjM2NGIwMTU0ZGEzZGZmYjc1ZjA4ZWI4YWMwOGYzMmI0MmEyOWYzZjg4ZDM5NTkzNzgwNjA3ZDE=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "miguelOchoaGallegos",
+  "repository-name": "consumo-gasolina-web"
+}
